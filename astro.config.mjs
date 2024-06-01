@@ -7,7 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'E-bou',
-			favicon: './src/assets/E-bou.V2.png',
+			favicon: './favicon.ico',
 			locales: {
 				root: {
 					label: 'Français',
@@ -15,13 +15,13 @@ export default defineConfig({
 				},
 			},
 			logo: {
-				dark: './src/assets/E-bou.V2.png',
-				light: './src/assets/E-bou.V2.png',
+				dark: './src/assets/logo.png',
+				light: './src/assets/logo.png',
 			},
 			social: {
 				twitter: 'https://twitter.com/EbouBot',
 				discord: 'https://discord.gg/rmSsDC84AS',
-				github: 'https://github.com/E-bou',
+				github: 'https://github.com/Faareoh/E-bou.docs',
 			},
 			sidebar: [
 				{
