@@ -1,0 +1,36 @@
+---
+title: E-bou
+description: Retrouvez ici toutes les actualités de l'application Discord E-bou, l'encyclopédie DOFUS la plus complète sur Discord
+template: splash
+hero:
+  tagline: Retrouvez ici toutes les actualités de l'application Discord E-bou
+  image:
+    file: ../../assets/E-bou.V2.png
+  actions:
+    - text: Dernier changelog
+      link: /changelog/200
+      icon: right-arrow
+      variant: primary
+---
+
+import {  CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<LinkCard
+  title="Ajouter l'application sur votre serveur Discord"
+  href="https://discord.com/application-directory/1093561990036860928"
+  align="center"
+  target="_blank"
+/>
+
+<CardGrid>
+	<LinkCard
+		title="Conditions Générales d'Utilisation"
+		description="Retrouvez ici les CGU de l'application"
+		href="/app/cgu"
+	/>
+	<LinkCard
+		title="Politique de confidentialité"
+		description="Retrouvez ici la politique de confidentialité de l'application"
+		href="/app/privacy"
+	/>
+</CardGrid>
