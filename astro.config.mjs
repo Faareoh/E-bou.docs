@@ -7,6 +7,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'E-bou',
+			favicon: './src/assets/E-bou.V2.png',
 			locales: {
 				root: {
 					label: 'Français',
