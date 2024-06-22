@@ -27,9 +27,11 @@ export default defineConfig({
 				{
 					label: 'Changelog',
 					autogenerate: { directory: 'changelog' },
+				}, {
+					label: 'Informations',
+					autogenerate: { directory: 'app' },
 				}
 			],
-			lastUpdated: true,
 		}),
 	],
 });
