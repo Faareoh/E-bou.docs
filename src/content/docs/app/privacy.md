@@ -1,58 +1,70 @@
 ---
-title: Politique de confidentialité
+title: Politique de Confidentialité
 description: Politique de confidentialité de l'application Discord E-bou
 ---
+
 ### 1. Consentement
 
-En utilisant E-bou, vous acceptez la politique de confidentialité suivante.
+En utilisant l'application E-bou, vous acceptez les termes de la présente politique de confidentialité.
 
-### 2. Informations enregistrées
+### 2. Informations Enregistrées
 
-Lorsqu'un serveur Discord (guilde) ajoute E-bou, certaines informations concernant ce serveur sont automatiquement sauvegardées. Les données enregistrées sont les suivantes :
-- Nom de la guilde ;
-- Identifiant de la guilde ;
-- Nombre de membres.
+Lorsque l'application E-bou est ajoutée à un serveur Discord (guilde), certaines informations sur ce serveur sont automatiquement enregistrées. Ces données incluent :
+- Nom du serveur ;
+- Identifiant du serveur ;
+- Nombre de membres du serveur.
 
-Lorsqu'un utilisateur utilise le bot, certaines informations le concernant sont automatiquement sauvegardées. Les données enregistrées sont les suivantes :
+De même, lors de l'utilisation de l'application par un utilisateur, certaines informations sur cet utilisateur sont collectées. Ces données incluentt :
 - Pseudonyme Discord de l'utilisateur ;
-- Identifiant de l'utilisateur ;
-- La guilde dans laquelle l'interaction a eu lieu.
+- Identifiant Discord de l'utilisateur ;
+- Serveur dans lequel l'interaction a eu lieu, le cas échéant.
 
-À chaque utilisation du bot, certaines informations sont sauvegardées à des fins statistiques et de débogage. Les données enregistrées sont les suivantes :
+À chaque interaction avec l'application, des informations supplémentaires sont enregistrées à des fins statistiques et de débogage. Ces données incluent :
 - Nom de la commande utilisée ;
 - Type d'interaction (commande, autocomplétion, bouton, menu déroulant, etc.) ;
 - Langue ;
-- Paramètres techniques liés à la commande pour reproduire avec exactitude le message généré ;
-- Identifiant de l'utilisateur ayant réalisé la commande (comme mentionné précédemment) ;
-- Identifiant de la guilde où la commande a été effectuée (comme mentionné précédemment) ;
-- Heure de début et de fin de l'interaction, ainsi que le temps nécessaire à la complétion de l'interaction.
+- Paramètres techniques nécessaires pour reproduire l'interaction ;
+- Identifiant de l'utilisateur ayant exécuté la commande ;
+- Identifiant du serveur où la commande a été exécutée, le cas échéant ;
+- Heure de début et de fin de l'interaction, ainsi que la durée de celle-ci.
 
-Certaines fonctionnalités du bot vous permettent d'enregistrer des données supplémentaires, telles que la langue d'un utilisateur ou d'un serveur, ou d'enregistrer des canaux de discussion pour permettre des envois automatiques de messages. Dans ces cas, seul l'identifiant du salon est enregistré.
+Certaines fonctionnalités de l'application permettent également l'enregistrement de données supplémentaires, telles que :
+- Langue préférée d'un utilisateur ou d'un serveur ;
+- Identifiant de canaux de discussion pour l'envoi automatique de messages.
 
-### 3. Lecture des messages
+### 3. Lecture des Messages
 
-Pour information, le bot n'a pas la capacité de [lire les messages](https://support-dev.discord.com/hc/fr/articles/4404772028055-Contenus-de-messages-Intentions-privil%C3%A9gi%C3%A9es-pour-les-bots-v%C3%A9rifi%C3%A9s) des utilisateurs, il est seulement en capacité d'acceder à ses anciens messages avec pour objectif d'y répondre.
+L'application E-bou ne peut lire les messages des utilisateurs que lorsqu'elle est explicitement mentionnée (taguée) dans ceux-ci, conformément aux [Intentions Privilégiées pour les Bots Vérifiés](https://support-dev.discord.com/hc/fr/articles/4404772028055-Contenus-de-messages-Intentions-privil%C3%A9gi%C3%A9es-pour-les-bots-v%C3%A9rifi%C3%A9s) définies par Discord.
 
-### 4. Utilisation des informations
+Dans ces rares cas où l'application est mentionnée dans un message, aucune information relative à ce message n'est stockée ou conservée. L'application peut réagir aux mentions pour offrir des fonctionnalités spécifiques, sans jamais sauvegarder les données des messages ainsi traités.
 
-Les informations enregistrées sont utilisées pour améliorer l'expérience utilisateur et pour permettre le bon fonctionnement du bot.
-### 4.1. Protection des données
+Pour certaines fonctionnalités, comme l'envoi de tweets ou d'autres interactions automatisées, l'application peut être amenée à lire ses propres messages pour y répondre de manière appropriée. Si l'application n'a pas la permission "**Voir les anciens messages**" dans le salon concerné, elle enverra un nouveau message au lieu de répondre directement à un message existant.
 
-Les données sauvegardées ne sont pas partagées avec des tiers. Uniquement le propriétaire du bot a accès à ces données.
+### 4. Utilisation des Informations
 
-### 4.2. Droit à l'oubli
+Les informations collectées sont utilisées pour :
+- Améliorer l'expérience utilisateur ;
+- Garantir le bon fonctionnement de l'application.
 
-Si vous souhaitez que vos données soient supprimées, veuillez contacter le propriétaire du bot.
+#### 4.1. Protection des Données
 
-### 4.3. Questions et préoccupations
+Les données collectées ne sont jamais partagées avec des tiers. Seul le propriétaire de l'application a accès à ces informations et aucun traitement automatisé n'est effectué sur ces données.
 
-Si vous avez des questions et/ou des inquiétudes concernant les données stockées, veuillez me contacter sur Discord via le pseudo [Faareoh](https://discord.com/users/211543250438193152) ou sur Twitter via le nom d'utilisateur [Faareoh](https://twitter.com/Faareoh).
+#### 4.2. Droit à l'Oubli
 
+Si vous souhaitez que vos données soient supprimées, veuillez contacter le propriétaire de l'application pour faire valoir votre droit à l'oubli.
 
-### 5. Informations stockées temporairement
+#### 4.3. Questions et Préoccupations
 
-E-bou peut conserver des informations dans un mécanisme de cache interne pendant un certain temps. Passé ce délai, les informations mises en cache sont supprimées et ne sont ajoutées qu'en cas de besoin.
+Pour toute question ou préoccupation concernant les données enregistrées, veuillez contacter le propriétaire de l'application sur Discord via le pseudo [Faareoh](https://discord.com/users/211543250438193152) ou sur Twitter via le nom d'utilisateur [Faareoh](https://twitter.com/Faareoh).
 
-### 6. Modifications
+### 5. Informations Stockées Temporairement
 
-Faareoh peut réviser cette politique de confidentialité à tout moment et sans préavis. En utilisant ce bot, vous acceptez d'être lié par la version la plus récente de cette politique de confidentialité.
+L'application E-bou peut conserver temporairement des informations dans un cache interne pour améliorer ses performances. Ces données mises en cache sont automatiquement supprimées après une certaine période, sauf si elles sont nécessaires à nouveau.
+
+### 6. Modifications de la Politique de Confidentialité
+
+Le propriétaire de l'application, Faareoh, peut modifier cette politique de confidentialité à tout moment et sans préavis. En continuant à utiliser l'application, vous acceptez de vous conformer à la version la plus récente de cette politique.
+
+---
+
