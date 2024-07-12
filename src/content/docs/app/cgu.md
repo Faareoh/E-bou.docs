@@ -9,11 +9,11 @@ L'application "E-bou" est développée par Faareoh. Pour toute question ou assis
 
 En utilisant l'application E-bou, vous acceptez d'être lié par ces conditions d'utilisation et vous vous engagez à respecter toutes les lois locales applicables. Si vous n'acceptez pas ces conditions, vous n'êtes pas autorisé à utiliser cette application.
 
-L'application E-bou fonctionne comme une encyclopédie dédiée au [MMORPG DOFUS](https://www.dofus.com/fr/prehome) développé par [Ankama Games](https://www.ankama.com/fr/games). Toutes les informations et fonctionnalités relatives à DOFUS présentes dans l'application sont la propriété exclusive d'Ankama Games.
+L'application E-bou fonctionne comme une encyclopédie dédiée au [MMORPG DOFUS](https://www.dofus.com/fr/prehome) développé par [Ankama Games](https://www.ankama.com/fr/games). Toutes les données relatives à DOFUS présentes dans l'application sont la propriété exclusive d'Ankama Games.
 
 ### 2. Licences d'Utilisation
 
-En ajoutant l'application E-bou à un serveur Discord (appelé "guilde"), tous les membres de ce serveur obtiennent une licence d'utilisation non exclusive. Cette licence permet l'utilisation de l'application à des fins non commerciales uniquement.
+Dès lors qu'un utilisateur utilise l'application E-bou, il obtient une licence d'utilisation non exclusive. Cette licence permet l'utilisation de l'application à des fins non commerciales uniquement.
 
 Cette licence d'utilisation ne constitue pas un transfert de propriété. En acceptant cette licence, vous vous engagez à :
 - Ne pas modifier, endommager ou tenter de reproduire l'application ;

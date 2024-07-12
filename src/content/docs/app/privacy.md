@@ -14,7 +14,7 @@ Lorsque l'application E-bou est ajoutée à un serveur Discord (guilde), certain
 - Identifiant du serveur ;
 - Nombre de membres du serveur.
 
-De même, lors de l'utilisation de l'application par un utilisateur, certaines informations sur cet utilisateur sont collectées. Ces données incluentt :
+De même, lors de l'utilisation de l'application par un utilisateur, certaines informations sur cet utilisateur sont collectées. Ces données incluent :
 - Pseudonyme Discord de l'utilisateur ;
 - Identifiant Discord de l'utilisateur ;
 - Serveur dans lequel l'interaction a eu lieu, le cas échéant.
